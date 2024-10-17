@@ -6,7 +6,7 @@ Summary:        JavaCC Maven Plugin
 Group:		Development/Java
 
 License:        ASL 2.0
-URL:            http://mojo.codehaus.org/javacc-maven-plugin/ 
+URL:            https://mojo.codehaus.org/javacc-maven-plugin/ 
 #svn export http://svn.codehaus.org/mojo/tags/javacc-maven-plugin-2.6
 #tar cjf javacc-maven-plugin-2.6.tar.bz2 javacc-maven-plugin-2.6
 Source0:        javacc-maven-plugin-2.6.tar.bz2
